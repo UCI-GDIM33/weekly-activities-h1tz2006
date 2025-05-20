@@ -10,15 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bf2edee5c58d82540a51f03df9d42094, type: 3}
-  m_Name: urp_withoutline_renderer
+  m_Name: test outline
   m_EditorClassIdentifier: 
   k_AssetVersion: 11
   k_AssetPreviousVersion: 11
   m_RendererType: 1
   m_RendererData: {fileID: 0}
   m_RendererDataList:
-  - {fileID: 11400000, guid: e6e39815834d5e24082ef96536a9f95e, type: 2}
-  m_DefaultRendererIndex: 0
+  - {fileID: 11400000, guid: 4ed77c1fff12bdf4594dc4c4638f07f1, type: 2}
+  - {fileID: 11400000, guid: 4ed77c1fff12bdf4594dc4c4638f07f1, type: 2}
+  - {fileID: 11400000, guid: 4ed77c1fff12bdf4594dc4c4638f07f1, type: 2}
+  m_DefaultRendererIndex: 2
   m_RequireDepthTexture: 0
   m_RequireOpaqueTexture: 0
   m_OpaqueDownsampling: 1
